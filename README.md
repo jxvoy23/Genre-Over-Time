@@ -1,2 +1,3 @@
 # Genre-Over-Time
-Python Analysis
+Python Analysis of Movie Genres over the years
+
